@@ -153,7 +153,7 @@
     "plugins.status_update_available": "Dostępna aktualizacja",
     "plugins.toast_failed_to_load_plugins": "Nie udało się załadować wtyczek",
     "plugins.tooltip_update_plugin_to": "Zaktualizuj wtyczkę do wersji v{{latestVersion}}",
-    "reset.accessories_will_may_need_to_be_reconfigured": "Po wykonaniu tej czynności dla niektórych akcesoriów może być wymagana ponownich k konfiguracja w HomeKit lub ponowne dodanie do automatyzacji.",
+    "reset.accessories_will_may_need_to_be_reconfigured": "Po wykonaniu tej czynności dla niektórych akcesoriów może być wymagana ponowna ich konfiguracja w aplikacji HomeKit lub ponowne dodanie ich do automatyzacji.",
     "reset.button_reset_homebridge_now": "Zresetuj teraz",
     "reset.label_reset_homebridge": "Zresetuj",
     "reset.message_accessory_config_will_not_be_changed": "Reszta twojej konfiguracji nie zostanie zmieniona. Jeśli Homebridge nie uruchamia się z powodu złej konfiguracji, reset go nie naprawi.",
